@@ -1,5 +1,8 @@
 # Tamil Nadu SIR Voter Roll Revision Impact Analysis (Data Analytics Project)
 
+Final Analysis Notebook - 
+https://github.com/ijaihari/Tamil-Nadu-SIR-2025-Draft-Voter-Roll-Impact-Analysis/blob/main/notebooks/final_analysis.ipynb
+
 ## Project Overview
 This project analyzes voter roll revisions under the **Tamil Nadu Special Intensive Revision (SIR) 2025** and evaluates whether these changes are large enough to matter when compared to **victory margins from the 2021 Assembly Election**.
 
