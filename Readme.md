@@ -1,10 +1,10 @@
-# Tamil Nadu SIR Voter Roll Revision Impact Analysis (Data Analytics Project)
+# Tamil Nadu SIR 2026 Voter Roll Revision Impact Analysis (Data Analytics Project)
 
 Final Analysis Notebook - 
-https://github.com/ijaihari/Tamil-Nadu-SIR-2025-Draft-Voter-Roll-Impact-Analysis/blob/main/notebooks/final_analysis.ipynb
+
 
 ## Project Overview
-This project analyzes voter roll revisions under the **Tamil Nadu Special Intensive Revision (SIR) 2025** and evaluates whether these changes are large enough to matter when compared to **victory margins from the 2021 Assembly Election**.
+This project analyzes voter roll revisions under the **Tamil Nadu Special Intensive Revision (SIR) 2026** and evaluates whether these changes are large enough to matter when compared to **victory margins from the 2021 Assembly Election**.
 
 The analysis focuses on **numerical impact**, not intent, and aims to identify constituencies where voter roll changes could potentially influence election outcomes.
 
@@ -15,14 +15,14 @@ The analysis focuses on **numerical impact**, not intent, and aims to identify c
 ## Data Sources
 - Tamil Nadu Assembly Election Results (2021)
 - Voter Roll Data (SSR 2021)
-- Voter Roll Data (SIR 2025 – AC-wise)
+- Voter Roll Data (SIR 2026 – AC-wise)
 - Official sources from the Election Commission of Tamil Nadu
 
 
 ## Methodology
 1. Extracted constituency-level election results and voter roll data
 2. Calculated victory margins for the 2021 election
-3. Computed voter roll changes between 2021 and 2025
+3. Computed voter roll changes between 2021 and 2026
 4. Compared voter removals against:
    - Victory margin (outcome sensitivity)
    - Not voted voters in 2021 (context)
