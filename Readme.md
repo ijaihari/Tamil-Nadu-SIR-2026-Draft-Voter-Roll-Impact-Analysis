@@ -1,5 +1,8 @@
 # Tamil Nadu SIR 2026 Draft Voter Roll Impact Analysis
 
+# Jupyter NoteBook
+https://github.com/ijaihari/Tamil-Nadu-SIR-2026-Draft-Voter-Roll-Impact-Analysis/blob/main/notebooks/Tamil%20Nadu%20SIR%202026%20Draft%20Voter%20Roll%20Impact%20Analysis.ipynb
+
 **Overview** -
 This report analyzes the **Summary Intensive Revision (SIR) 2026** process in Tamil Nadu and its numerical impact on voter rolls at the **Assembly Constituency level**.
 
@@ -186,9 +189,6 @@ The combined visual analysis and statistical modeling lead to a consistent concl
 
 This analysis **does not claim election outcomes were affected**.  
 It identifies **where accuracy and care in voter roll revision are most critical**.
-
-# Jupyter NoteBook
-https://github.com/ijaihari/Tamil-Nadu-SIR-2026-Draft-Voter-Roll-Impact-Analysis/blob/main/TN_SIR_2026_Impact_Analysis.pdf
 
 Complete analysis with charts, tables, and methodology.
 
