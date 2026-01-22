@@ -26,7 +26,7 @@ All datasets were cleaned, validated, and aligned at the **Assembly Constituency
 | Total voters (2021 Assembly Roll) | **6.29 crore** |
 | Total voters (SSR 2025 – pre-SIR) | **6.36 crore** |
 | Total voters (Draft Roll after SIR 2026) | **5.43 crore** |
-| **Net voters removed (SIR 2026)** | **~ 97 lakh** |
+| **Net voters removed (SIR 2026)** | ~ 97 lakh |
 
 **One-line takeaway:**  
 Tamil Nadu’s draft electoral roll shows a net reduction of **~ 97 lakh voters** after SIR 2026.
